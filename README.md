@@ -1,37 +1,33 @@
-<div align="center">
+**AI Engineer · Full-Stack & IoT Developer · Applied ML**  
+Building practical software at the intersection of sensors, data, health technology, and everyday tools. Based in Almaty, Kazakhstan; studying at KBTU.
 
-# Abenezer Alemayehu Lemma
+[**Portfolio / CV**](https://abnzrdev.github.io/rsschool-cv/) · [LinkedIn](https://www.linkedin.com/in/abnzrdev/) · [Email](mailto:abnzr.dev@gmail.com)
 
-**AI Engineer · Full-Stack Developer · IoT & Applied ML**
+### Engineering work
+- **[Breez](https://breez.com.kz/)** — air-quality monitoring: Raspberry Pi telemetry, PostgreSQL, AQI, map views, device status, and deployment.
+- **[Phoenix](https://aiphoenix.kz/)** — experimental knee-rehabilitation workflows integrating BLE wearables, motion sensors, and clinician-facing software.
+- **[Aman AI](https://github.com/amanai-kz/aman-ai)** — contributed to medical AI workflows, authentication/security hardening, and an [MRI dashboard integration](https://github.com/amanai-kz/aman-ai/pull/52).
 
-Building practical software that connects data, devices, and real user needs.
+*Breez and Phoenix are professional work; their private production source is not published here.*
 
-[LinkedIn](https://www.linkedin.com/in/abnzrdev/) · [GitHub](https://github.com/abnzrdev) · [Email](mailto:abnzr.dev@gmail.com)
+### Selected projects
+| Project | Focus |
+| --- | --- |
+| [**Barii**](https://github.com/abnzrdev/barii) | Offline-first EPUB/TXT reader with local notes, highlights, and progress (Flutter, SQLite). |
+| [**Limmud**](https://github.com/abnzrdev/limmud) | Local-first course workspace for videos, notes, and study tools (Tauri, Rust, React). |
+| [**Patch75**](https://github.com/abnzrdev/Patch75) | Offline algorithm practice and spaced review for Linux/Android (Flutter, Python). |
+| [**PifPaf AI**](https://github.com/abnzrdev/pifpaf) | Reel metrics dashboard with auth and PostgreSQL; explicit mock/live data modes (Next.js). |
+| [**MiniGames**](https://github.com/abnzrdev/minigames) | RS School game-discovery coursework: REST APIs, Firebase auth, tests — [demo](https://abnzrdev.github.io/minigames/). |
+| [**ZeroMotion**](https://github.com/abnzrdev/ZeroMotion) | Privacy-oriented rehabilitation milestone **hackathon prototype**. |
 
-</div>
+**More:** [codeSpaced](https://github.com/abnzrdev/codeSpaced) (coding-problem reviews) · [KzESA](https://github.com/abnzrdev/kzesa) (student community website) · [Sleep Command](https://github.com/abnzrdev/sleep) (sleep monitoring experiment).
 
-## Featured public projects
+### Team and open-source contributions
+- **[ZealRN Desktop](https://github.com/zealrn/zealrn-desktop) / [Web](https://github.com/zealrn/zealrn-web)** — local-first learning tools; features, security, tests, and documentation.
+- **[University Information System](https://github.com/Code-stlr/UniversityInformationSystem/pulls?q=is%3Apr+author%3Aabnzrdev)** — Java system and console workflows; merged team PRs.
+- **[Asset Tracker](https://github.com/yersultank/Asset-Tracker)** — contributed Angular UI and backend setup improvements.
 
-| Project | What I built | Stack |
-| --- | --- | --- |
-| **[Barii](https://github.com/abnzrdev/barii)** | Offline-first EPUB/TXT reader with bite-sized reading, notes, highlights, and local progress. **Beta.** | Flutter, Dart, Riverpod, SQLite |
-| **[Limmud](https://github.com/abnzrdev/limmud)** | Local-first workspace for offline courses, videos, notes, progress, and an embedded terminal. **Early stage.** | Tauri, Rust, React, TypeScript |
-| **[Patch75](https://github.com/abnzrdev/Patch75)** | Offline algorithm practice workspace with local reviews and platform-specific Python execution boundaries. | Flutter, Dart, Python, Docker |
-| **[MiniGames](https://github.com/abnzrdev/minigames)** | RS School game-discovery coursework: catalog, REST APIs, Firebase authentication, favorites, comments, and tests. [Live demo](https://abnzrdev.github.io/minigames/). | TypeScript, Vite, Sass, Firebase, Vitest |
-| **[PifPaf AI](https://github.com/abnzrdev/pifpaf)** | Creator dashboard for tracking public Instagram Reel links and metrics; supports explicit mock mode. | Next.js, PostgreSQL, Docker |
-| **[ZeroMotion](https://github.com/abnzrdev/ZeroMotion)** | Hackathon prototype for privacy-oriented rehabilitation milestones and clinician workflows. | React, TypeScript, AI integration |
+**Stack:** Python · TypeScript · React/Next.js · FastAPI · Flutter/Dart · PostgreSQL · Docker/Linux · Raspberry Pi/BLE
 
-**Also building:** [codeSpaced](https://github.com/abnzrdev/codeSpaced), a browser extension for spaced repetition of programming problems.
-
-## Applied engineering work
-
-- **[Breez](https://breez.com.kz/)** — worked on a deployed air-quality monitoring platform connecting Raspberry Pi stations with cloud data, maps, and monitoring.
-- **[Phoenix](https://aiphoenix.kz/)** — worked on a remote rehabilitation platform integrating wearable telemetry and clinician/patient workflows.
-
-*These are professional projects; not all production source code is publicly available.*
-
-## Tools I work with
-
-`Python` · `TypeScript` · `React` · `FastAPI` · `PostgreSQL` · `Flutter` · `Docker` · `Linux` · `Raspberry Pi`
-
-**Based in Almaty, Kazakhstan** · Studying Computer Systems and Software Engineering at Kazakh-British Technical University.
+**Education:** B.Tech., Computer Systems and Software Engineering, KBTU (2024–2028).  
+**Research:** Co-author, *Explainable Deep Learning for Pediatric Brain Tumor Segmentation Using Attention U-Net* (IEEE SIST 2026).

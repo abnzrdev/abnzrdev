@@ -1,33 +1,29 @@
-**AI Engineer · Full-Stack & IoT Developer · Applied ML**  
-Building practical software at the intersection of sensors, data, health technology, and everyday tools. Based in Almaty, Kazakhstan; studying at KBTU.
+# Abenezer Alemayehu Lemma
 
-[**Portfolio / CV**](https://abnzrdev.github.io/rsschool-cv/) · [LinkedIn](https://www.linkedin.com/in/abnzrdev/) · [Email](mailto:abnzr.dev@gmail.com)
+Software engineering student and part-time AI engineer in Almaty, Kazakhstan. I build connected systems, research interfaces, and local-first applications. Studying Computer Systems and Software Engineering at KBTU (2024–2028, expected).
 
-### Engineering work
-- **[Breez](https://breez.com.kz/)** — air-quality monitoring: Raspberry Pi telemetry, PostgreSQL, AQI, map views, device status, and deployment.
-- **[Phoenix](https://aiphoenix.kz/)** — experimental knee-rehabilitation workflows integrating BLE wearables, motion sensors, and clinician-facing software.
-- **[Aman AI](https://github.com/amanai-kz/aman-ai)** — contributed to medical AI workflows, authentication/security hardening, and an [MRI dashboard integration](https://github.com/amanai-kz/aman-ai/pull/52).
+[Portfolio / CV](https://abnzrdev.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/abnzrdev/) · [Email](mailto:abnzr.dev@gmail.com)
 
-*Breez and Phoenix are professional work; their private production source is not published here.*
+## Professional contributions
 
-### Selected projects
-| Project | Focus |
-| --- | --- |
-| [**Barii**](https://github.com/abnzrdev/barii) | Offline-first EPUB/TXT reader with local notes, highlights, and progress (Flutter, SQLite). |
-| [**Limmud**](https://github.com/abnzrdev/limmud) | Local-first course workspace for videos, notes, and study tools (Tauri, Rust, React). |
-| [**Patch75**](https://github.com/abnzrdev/Patch75) | Offline algorithm practice and spaced review for Linux/Android (Flutter, Python). |
-| [**PifPaf AI**](https://github.com/abnzrdev/pifpaf) | Reel metrics dashboard with auth and PostgreSQL; explicit mock/live data modes (Next.js). |
-| [**MiniGames**](https://github.com/abnzrdev/minigames) | RS School game-discovery coursework: REST APIs, Firebase auth, tests — [demo](https://abnzrdev.github.io/minigames/). |
-| [**ZeroMotion**](https://github.com/abnzrdev/ZeroMotion) | Privacy-oriented rehabilitation milestone **hackathon prototype**. |
+- **[Breez](https://breez.com.kz/)** — sole software developer at ALFA Center: station monitoring, stale-reading detection, AQI, live maps, PostgreSQL workflows, and Docker/Cloudflare deployment.
+- **[AI Phoenix](https://aiphoenix.kz/)** — frontend and FastAPI integrations for knee-rehabilitation research; Bluetooth GATT debugging and wearable telemetry.
+- **[Aman AI](https://amanai.kz/)** — public contributor: native MRI upload/results, authenticated segmentation integration, and explicit unavailable-model states. [Merged PR #52](https://github.com/amanai-kz/aman-ai/pull/52).
 
-**More:** [codeSpaced](https://github.com/abnzrdev/codeSpaced) (coding-problem reviews) · [KzESA](https://github.com/abnzrdev/kzesa) (student community website) · [Sleep Command](https://github.com/abnzrdev/sleep) (sleep monitoring experiment).
+Breez and Phoenix roles are documented in my software resume; their production source remains private. Aman AI is described from the linked public contribution.
 
-### Team and open-source contributions
-- **[ZealRN Desktop](https://github.com/zealrn/zealrn-desktop) / [Web](https://github.com/zealrn/zealrn-web)** — local-first learning tools; features, security, tests, and documentation.
-- **[University Information System](https://github.com/Code-stlr/UniversityInformationSystem/pulls?q=is%3Apr+author%3Aabnzrdev)** — Java system and console workflows; merged team PRs.
-- **[Asset Tracker](https://github.com/yersultank/Asset-Tracker)** — contributed Angular UI and backend setup improvements.
+## Selected projects
 
-**Stack:** Python · TypeScript · React/Next.js · FastAPI · Flutter/Dart · PostgreSQL · Docker/Linux · Raspberry Pi/BLE
+| Project | What it does | Source |
+| --- | --- | --- |
+| [Barii](https://abnzrdev.github.io/barii/) | Offline EPUB/TXT reader; Flutter, Dart, Drift/SQLite | [GitHub](https://github.com/abnzrdev/barii) |
+| [Limmud](https://abnzrdev.github.io/limmud/) | Local videos, Markdown notes, progress, terminal; Tauri, Rust, React, TypeScript | [GitHub](https://github.com/abnzrdev/limmud) |
+| [Alchemist's Cauldron](https://abnzrdev.github.io/alchemists-cauldron/) | Browser potion game; TypeScript, Vite, SCSS | [GitHub](https://github.com/abnzrdev/alchemists-cauldron) |
+| [ZLearn / ZealRN](https://zealrn.github.io/) | Team contributions to offline docs and learning tools; C++, Qt 6, SQLite | [GitHub](https://github.com/zealrn/zealrn-desktop) |
+| [Patch75](https://abnzrdev.github.io/Patch75/) | Offline algorithm practice and review; Flutter, Dart, Python | [GitHub](https://github.com/abnzrdev/Patch75) |
 
-**Education:** B.Tech., Computer Systems and Software Engineering, KBTU (2024–2028).  
-**Research:** Co-author, *Explainable Deep Learning for Pediatric Brain Tumor Segmentation Using Attention U-Net* (IEEE SIST 2026).
+![Barii Windows reader](https://github.com/abnzrdev/barii/releases/download/v0.2.0-beta.1/reader.png)
+
+Project repositories contain setup instructions, implementation details, and reviewed screenshots where available.
+
+**Research:** Co-author, *Explainable Deep Learning for Pediatric Brain Tumor Segmentation Using Attention U-Net*, IEEE SIST 2026.

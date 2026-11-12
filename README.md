@@ -1,7 +1,7 @@
 **AI Engineer · Full-Stack & IoT Developer · Applied ML**  
 Building practical software at the intersection of sensors, data, health technology, and everyday tools. Based in Almaty, Kazakhstan; studying at KBTU.
 
-[**Portfolio / CV**](https://abnzrdev.github.io/rsschool-cv/) · [LinkedIn](https://www.linkedin.com/in/abnzrdev/) · [Email](mailto:abnzr.dev@gmail.com)
+[**Portfolio / CV**](https://abnzrdev.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/abnzrdev/) · [Email](mailto:abnzr.dev@gmail.com)
 
 ### Engineering work
 - **[Breez](https://breez.com.kz/)** — air-quality monitoring: Raspberry Pi telemetry, PostgreSQL, AQI, map views, device status, and deployment.
